@@ -1,0 +1,11 @@
+#counter {
+    font-size: 24px;
+    font-weight: bold;
+}
+#tracking-box {
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    
+   
+}
